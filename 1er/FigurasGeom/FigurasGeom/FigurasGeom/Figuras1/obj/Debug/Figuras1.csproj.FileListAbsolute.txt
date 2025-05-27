@@ -1,0 +1,90 @@
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.csproj.AssemblyReference.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmRectangulo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.Properties.Resources.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.csproj.GenerateResource.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\bin\Debug\Figuras1.exe.config
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\bin\Debug\Figuras1.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\bin\Debug\Figuras1.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmTriangle.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmsquare.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmCircle.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmRombo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmHome.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmPentagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmTriangleIrreg.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmHexagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmHeptagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmOctagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmDecagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmEnneagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmEllipse.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\1er\proyectos\Figuras1\Figuras1\obj\Debug\Figuras1.frmOvalo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\bin\Debug\Figuras1.exe.config
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\bin\Debug\Figuras1.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\bin\Debug\Figuras1.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.csproj.AssemblyReference.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmDecagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmEllipse.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmEnneagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmHeptagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmCircle.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmHexagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmHome.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmOctagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmOvalo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmPentagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmTriangleIrreg.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmRombo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmsquare.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmRectangulo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.Properties.Resources.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.frmTriangle.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.csproj.GenerateResource.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\Figuras1\Figuras1\obj\Debug\Figuras1.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.AssemblyReference.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmHome.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmPentagon.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmRombo.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.Properties.Resources.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.GenerateResource.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\bin\Debug\Figuras1.exe.config
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\bin\Debug\Figuras1.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\bin\Debug\Figuras1.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmRomboide.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\1er\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmTrapezoide.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\bin\Debug\Figuras1.exe.config
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\bin\Debug\Figuras1.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\bin\Debug\Figuras1.pdb
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.AssemblyReference.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmHome.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmPentagon.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmRomboide.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmTrapezoide.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmRombo.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.Properties.Resources.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.GenerateResource.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.CoreCompileInputs.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.pdb
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\bin\Debug\Figuras1.exe.config
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\bin\Debug\Figuras1.exe
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\bin\Debug\Figuras1.pdb
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.AssemblyReference.cache
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmHome.resources
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmPentagon.resources
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmRomboide.resources
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmTrapezoide.resources
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.frmRombo.resources
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.Properties.Resources.resources
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.GenerateResource.cache
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.exe
+C:\Users\Juanis\Downloads\FigurasGeom\FigurasGeom\FigurasGeom\Figuras1\obj\Debug\Figuras1.pdb

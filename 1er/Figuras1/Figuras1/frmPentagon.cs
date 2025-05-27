@@ -38,7 +38,7 @@ namespace Figuras1
             //impresión de datos - llamada a func PintData
             ObjPentagon.PrintData(txtPerimeter, txtArea);
             //Graficación del pentágono - llamada fun PlotShape
-            //ObjPentagon.PlotShape(picCanvas);
+            ObjPentagon.PlotShape(picCanvas);
 
         }
 

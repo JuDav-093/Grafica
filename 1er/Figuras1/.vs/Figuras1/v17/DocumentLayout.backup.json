@@ -1,33 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\",
+  "WorkspaceRootPath": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\1er\\proyectos\\figuras1\\figuras1\\covalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\covalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\1er\\figuras1\\figuras1\\cpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\cpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\1er\\proyectos\\figuras1\\figuras1\\cellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\cellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\1er\\figuras1\\figuras1\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\1er\\proyectos\\figuras1\\figuras1\\cdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\cdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\1er\\figuras1\\figuras1\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\figuras1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\1er\\figuras1\\figuras1\\frmhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\figuras1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\1er\\proyectos\\figuras1\\figuras1\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\1er\\proyectos\\figuras1\\figuras1\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\figuras1\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D3AB969-7642-4924-8B23-78EF3C9F5B93}|Figuras1\\Figuras1.csproj|solutionrelative:figuras1\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -59,8 +51,8 @@
           ]
         },
         {
-          "DockedWidth": 238,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 325,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,96 +65,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmHome.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\FrmHome.cs",
-              "RelativeDocumentMoniker": "Figuras1\\FrmHome.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\FrmHome.cs",
-              "RelativeToolTip": "Figuras1\\FrmHome.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAnwJEAAAAFAAAAAAAAAA==",
+              "Title": "frmHexagon.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmHexagon.cs",
+              "RelativeDocumentMoniker": "Figuras1\\frmHexagon.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmHexagon.cs*",
+              "RelativeToolTip": "Figuras1\\frmHexagon.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T12:28:06.793Z",
+              "WhenOpened": "2025-05-22T13:01:51.859Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmHome.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\FrmHome.cs",
-              "RelativeDocumentMoniker": "Figuras1\\FrmHome.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\FrmHome.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Figuras1\\FrmHome.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T13:28:17.189Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CEllipse.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\CEllipse.cs",
-              "RelativeDocumentMoniker": "Figuras1\\CEllipse.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\CEllipse.cs",
-              "RelativeToolTip": "Figuras1\\CEllipse.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA4wBoAAAAKAAAAAAAAAA==",
+              "Title": "frmPentagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmPentagon.cs",
+              "RelativeDocumentMoniker": "Figuras1\\frmPentagon.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmPentagon.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Figuras1\\frmPentagon.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T00:27:45.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CDecagon.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\CDecagon.cs",
-              "RelativeDocumentMoniker": "Figuras1\\CDecagon.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\CDecagon.cs",
-              "RelativeToolTip": "Figuras1\\CDecagon.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T00:57:01.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmOvalo.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\frmOvalo.cs",
-              "RelativeDocumentMoniker": "Figuras1\\frmOvalo.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\frmOvalo.cs",
-              "RelativeToolTip": "Figuras1\\frmOvalo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T00:27:10.465Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 268,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmOvalo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\frmOvalo.cs",
-              "RelativeDocumentMoniker": "Figuras1\\frmOvalo.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\frmOvalo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Figuras1\\frmOvalo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T00:19:46.723Z",
+              "WhenOpened": "2025-05-22T12:48:11.776Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "COvalo.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\COvalo.cs",
-              "RelativeDocumentMoniker": "Figuras1\\COvalo.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\1er\\proyectos\\Figuras1\\Figuras1\\COvalo.cs",
-              "RelativeToolTip": "Figuras1\\COvalo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "frmOvalo.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmOvalo.cs",
+              "RelativeDocumentMoniker": "Figuras1\\frmOvalo.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmOvalo.cs",
+              "RelativeToolTip": "Figuras1\\frmOvalo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:52:50.283Z",
+              "WhenOpened": "2025-05-12T00:27:10.465Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPentagon.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmPentagon.cs",
+              "RelativeDocumentMoniker": "Figuras1\\frmPentagon.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\frmPentagon.cs*",
+              "RelativeToolTip": "Figuras1\\frmPentagon.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:54:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPentagon.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\CPentagon.cs",
+              "RelativeDocumentMoniker": "Figuras1\\CPentagon.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\1er\\Figuras1\\Figuras1\\CPentagon.cs*",
+              "RelativeToolTip": "Figuras1\\CPentagon.cs*",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAmwKgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:31:19.85Z",
               "EditorCaption": ""
             }
           ]

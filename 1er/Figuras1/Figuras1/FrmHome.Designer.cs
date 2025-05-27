@@ -58,6 +58,7 @@
             this.octágonoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.eneágonoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.decagonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pentogoscolorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -184,14 +185,14 @@
             // elipseToolStripMenuItem
             // 
             this.elipseToolStripMenuItem.Name = "elipseToolStripMenuItem";
-            this.elipseToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.elipseToolStripMenuItem.Size = new System.Drawing.Size(138, 26);
             this.elipseToolStripMenuItem.Text = "Elipse";
             this.elipseToolStripMenuItem.Click += new System.EventHandler(this.elipseToolStripMenuItem_Click);
             // 
             // ovaloToolStripMenuItem
             // 
             this.ovaloToolStripMenuItem.Name = "ovaloToolStripMenuItem";
-            this.ovaloToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.ovaloToolStripMenuItem.Size = new System.Drawing.Size(138, 26);
             this.ovaloToolStripMenuItem.Text = "Ovalo";
             this.ovaloToolStripMenuItem.Click += new System.EventHandler(this.ovaloToolStripMenuItem_Click);
             // 
@@ -227,7 +228,8 @@
             this.heptágonoToolStripMenuItem,
             this.octágonoToolStripMenuItem,
             this.eneágonoToolStripMenuItem,
-            this.decagonToolStripMenuItem});
+            this.decagonToolStripMenuItem,
+            this.pentogoscolorToolStripMenuItem});
             this.poligonosToolStripMenuItem.Name = "poligonosToolStripMenuItem";
             this.poligonosToolStripMenuItem.Size = new System.Drawing.Size(137, 24);
             this.poligonosToolStripMenuItem.Text = "Polígonos (5 o +)";
@@ -273,6 +275,12 @@
             this.decagonToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.decagonToolStripMenuItem.Text = "Decágono";
             this.decagonToolStripMenuItem.Click += new System.EventHandler(this.decagonToolStripMenuItem_Click);
+            // 
+            // pentogoscolorToolStripMenuItem
+            // 
+            this.pentogoscolorToolStripMenuItem.Name = "pentogoscolorToolStripMenuItem";
+            this.pentogoscolorToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.pentogoscolorToolStripMenuItem.Text = "pentogos/color";
             // 
             // frmHome
             // 
@@ -325,5 +333,6 @@
         private System.Windows.Forms.ToolStripMenuItem eneágonoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem decagonToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem triánguloIrregToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem pentogoscolorToolStripMenuItem;
     }
 }

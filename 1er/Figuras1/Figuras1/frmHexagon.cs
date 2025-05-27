@@ -37,7 +37,10 @@ namespace Figuras1
             //impresion de datos - llamada a func PintData
             ObjHexagon.PrintData(txtPerimeter, txtArea);
             //Graficacion del hexágono - llamada fun PlotShape
-            //ObjPentagon.PlotShape(picCanvas);
+            ObjHexagon.PlotShape(picCanvas);
+            //graficacion de tirangulos dentro del hexagono
+            ObjHexagon.DrawTriangles(picCanvas);
+            
         }
 
         private void btnReset_Click(object sender, EventArgs e)

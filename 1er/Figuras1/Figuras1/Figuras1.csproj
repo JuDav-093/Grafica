@@ -54,6 +54,7 @@
     <Compile Include="CHeptagon.cs" />
     <Compile Include="COctagon.cs" />
     <Compile Include="COvalo.cs" />
+    <Compile Include="CPentagonoColor.cs" />
     <Compile Include="frmDecagon.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -121,6 +122,12 @@
     <Compile Include="frmPentagon.Designer.cs">
       <DependentUpon>frmPentagon.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPentogonoColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPentogonoColor.Designer.cs">
+      <DependentUpon>frmPentogonoColor.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTriangleIrreg.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -182,6 +189,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPentagon.resx">
       <DependentUpon>frmPentagon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPentogonoColor.resx">
+      <DependentUpon>frmPentogonoColor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTriangleIrreg.resx">
       <DependentUpon>frmTriangleIrreg.cs</DependentUpon>

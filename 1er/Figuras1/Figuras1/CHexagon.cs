@@ -22,6 +22,8 @@ namespace Figuras1
         private const float SF = 20;
         //Objeto bolígrafo que dibuja
         private Pen mPen;
+        //objeto que maneja el pincel para rellenar
+        private SolidBrush mBrush;
 
         //Funciones miembros (METODOS)
         //Constructor sin parametros
@@ -78,7 +80,81 @@ namespace Figuras1
             //inicializa el objeto bolígrafo
             mPen = new Pen(Color.Black);
         }
-        //Función que grafica el hexagono regular
+        //Función que grafica el hexágono regular centrado en el canvas
+        public void PlotShape(PictureBox picCanvas)
+        {
+            // Limpia el canvas
+            ClearCanvas(picCanvas);
+
+            // Calcula el centro del PictureBox
+            float centerX = picCanvas.Width / 2f;
+            float centerY = picCanvas.Height / 2f;
+
+            // Dibuja el hexágono regular centrado
+            PointF[] hexagon = new PointF[6];
+            for (int i = 0; i < 6; i++)
+            {
+                hexagon[i] = new PointF(
+                    centerX + (float)(SF * mLado * Math.Cos(i * Math.PI / 3)),
+                    centerY + (float)(SF * mLado * Math.Sin(i * Math.PI / 3))
+                );
+            }
+            mGraph.DrawPolygon(mPen, hexagon);
+        }
+
+        //Función que dibuja TRIANGULOS desde el centro hasta los vértices del hexágono regular centrado
+        public void DrawTriangles(PictureBox picCanvas)
+        {
+            // Limpia el canvas
+            ClearCanvas(picCanvas);
+
+            // Calcula el centro del PictureBox
+            float centerX = picCanvas.Width / 2f;
+            float centerY = picCanvas.Height / 2f;
+
+            // Dibuja los triángulos
+            PointF[] triangle = new PointF[3];
+            for (int i = 0; i < 6; i++)
+            {
+                triangle[0] = new PointF(centerX, centerY);
+                triangle[1] = new PointF(
+                    centerX + (float)(SF * mLado * Math.Cos(i * Math.PI / 3)),
+                    centerY + (float)(SF * mLado * Math.Sin(i * Math.PI / 3))
+                );
+                triangle[2] = new PointF(
+                    centerX + (float)(SF * mLado * Math.Cos((i + 1) * Math.PI / 3)),
+                    centerY + (float)(SF * mLado * Math.Sin((i + 1) * Math.PI / 3))
+                );
+                mGraph.DrawPolygon(mPen, triangle);
+            }
+        }
+        //funcion que maneja el pincel para rellenar de diferentes colores cada triagulo dentro del hexagono
+        public void SolidBrush(PictureBox picCanvas)
+        {
+            // Limpia el canvas
+            ClearCanvas(picCanvas);
+            // Calcula el centro del PictureBox
+            float centerX = picCanvas.Width / 2f;
+            float centerY = picCanvas.Height / 2f;
+            // Dibuja los triángulos
+            PointF[] triangle = new PointF[3];
+            for (int i = 0; i < 6; i++)
+            {
+                triangle[0] = new PointF(centerX, centerY);
+                triangle[1] = new PointF(
+                    centerX + (float)(SF * mLado * Math.Cos(i * Math.PI / 3)),
+                    centerY + (float)(SF * mLado * Math.Sin(i * Math.PI / 3))
+                );
+                triangle[2] = new PointF(
+                    centerX + (float)(SF * mLado * Math.Cos((i + 1) * Math.PI / 3)),
+                    centerY + (float)(SF * mLado * Math.Sin((i + 1) * Math.PI / 3))
+                );
+                mBrush = new SolidBrush(Color.FromArgb(255, i * 40, i * 40, i * 40));
+                mGraph.FillPolygon(mBrush, triangle);
+            }
+        }
+
+
         //función que limpia canvas
         public void ClearCanvas(PictureBox picCanvas)
         {

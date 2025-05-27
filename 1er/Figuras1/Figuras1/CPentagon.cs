@@ -23,6 +23,9 @@ namespace Figuras1
         private const float SF = 20;
         //Objeto bolígrafo que dibuja
         private Pen mPen;
+        // Agrega estos campos para el factor de escala
+        private float mScaleX = 1.0f;
+        private float mScaleY = 1.0f;
 
         //Funciones miembros (METODOS)
         //Constructor sin parametros
@@ -85,6 +88,27 @@ namespace Figuras1
         }
 
         //Función que grafica el pentágono regular
+        public void PlotShape(PictureBox picCanvas)
+        {
+            mGraph = picCanvas.CreateGraphics();
+            mPen = new Pen(Color.Blue, 2);
+            // Centro del PictureBox
+            float centerX = picCanvas.Width / 2f;
+            float centerY = picCanvas.Height / 2f;
+            // Radio del pentágono
+            float r = (mLado * SF) / (2 * (float)Math.Sin(Math.PI / 5));
+            // Calcula los puntos del pentágono
+            PointF[] points = new PointF[5];
+            for (int i = 0; i < 5; i++)
+            {
+                double angle = -Math.PI / 2 + i * 2 * Math.PI / 5;
+                float x = centerX + (float)(r * Math.Cos(angle)) * mScaleX;
+                float y = centerY + (float)(r * Math.Sin(angle)) * mScaleY;
+                points[i] = new PointF(x, y);
+            }
+            mGraph.Clear(picCanvas.BackColor);
+            mGraph.DrawPolygon(mPen, points);
+        }
 
         //Función que limpia el canvas
         public void ClearCanvas(PictureBox picCanvas)
@@ -96,6 +120,56 @@ namespace Figuras1
         public void CloseForm(Form ObjForm)
         {
             ObjForm.Close();
+        }
+
+        // Método para cambiar la escala según la tecla presionada
+        public void ChangeScale(Keys key)
+        {
+            const float scaleStep = 0.1f; // Incremento/decremento de escala
+            switch (key)
+            {
+                case Keys.Up:
+                    mScaleY += scaleStep;
+                    break;
+                case Keys.Down:
+                    mScaleY = Math.Max(0.1f, mScaleY - scaleStep);
+                    break;
+                case Keys.Right:
+                    mScaleX += scaleStep;
+                    break;
+                case Keys.Left:
+                    mScaleX = Math.Max(0.1f, mScaleX - scaleStep);
+                    break;
+            }
+        }
+
+        // Método para graficar el pentágono regular con escala
+        public void DrawPentagon(PictureBox picCanvas)
+        {
+            if (mLado <= 0) return;
+
+            mGraph = picCanvas.CreateGraphics();
+            mPen = new Pen(Color.Blue, 2);
+
+            // Centro del PictureBox
+            float centerX = picCanvas.Width / 2f;
+            float centerY = picCanvas.Height / 2f;
+
+            // Radio del pentágono
+            float r = (mLado * SF) / (2 * (float)Math.Sin(Math.PI / 5));
+
+            // Calcula los puntos del pentágono
+            PointF[] points = new PointF[5];
+            for (int i = 0; i < 5; i++)
+            {
+                double angle = -Math.PI / 2 + i * 2 * Math.PI / 5;
+                float x = centerX + (float)(r * Math.Cos(angle)) * mScaleX;
+                float y = centerY + (float)(r * Math.Sin(angle)) * mScaleY;
+                points[i] = new PointF(x, y);
+            }
+
+            mGraph.Clear(picCanvas.BackColor);
+            mGraph.DrawPolygon(mPen, points);
         }
     }
 }

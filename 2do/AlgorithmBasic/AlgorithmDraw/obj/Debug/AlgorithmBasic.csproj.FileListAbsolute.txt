@@ -1,0 +1,13 @@
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\bin\Debug\AlgorithmDraw.exe.config
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\bin\Debug\AlgorithmDraw.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\bin\Debug\AlgorithmDraw.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.AssemblyReference.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmAlgorithmBresenham.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmAlgorithmCircle.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmAlgorithmDDA.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmIndex.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmDraw.Properties.Resources.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.GenerateResource.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmDraw.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmDraw.pdb

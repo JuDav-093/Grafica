@@ -10,15 +10,16 @@ namespace AlgorithmBasic
         private Point startPoint;
         private Point endPoint;
         private List<Point> linePoints;
-
+        private int animationInterval = 30;
         public AlgorithmDDA()
         {
             startPoint = new Point(0, 0);
             endPoint = new Point(0, 0);
             linePoints = new List<Point>();
         }
+        public List<Point> GetLinePoints() => linePoints;
 
-        public void ReadData(TextBox txtX1, TextBox txtY1, TextBox txtX2, TextBox txtY2 )
+        public void ReadData(TextBox txtX1, TextBox txtY1, TextBox txtX2, TextBox txtY2)
         {
             if (string.IsNullOrWhiteSpace(txtX1.Text) ||
                 string.IsNullOrWhiteSpace(txtY1.Text) ||
@@ -91,8 +92,10 @@ namespace AlgorithmBasic
             foreach (var pt in linePoints)
             {
                 g.FillRectangle(Brushes.Lime, pt.X, pt.Y, 1, 1);
-
+                Application.DoEvents();          // Permite refrescar la interfaz gráfica
+                System.Threading.Thread.Sleep(animationInterval);
             }
+
         }
 
     }

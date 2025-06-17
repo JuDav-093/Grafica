@@ -30,9 +30,9 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.dDAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dDAToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.bresenhamToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.circleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bresenhamToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.circle1ToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.floodfillToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.panelContenedor = new System.Windows.Forms.Panel();
             this.lblName = new System.Windows.Forms.Label();
             this.lblWelcome = new System.Windows.Forms.Label();
@@ -45,49 +45,43 @@
             this.menuStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.dDAToolStripMenuItem});
+            this.dDAToolStripMenuItem,
+            this.bresenhamToolStripMenuItem2,
+            this.circle1ToolStripMenuItem1,
+            this.floodfillToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(812, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(812, 28);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // dDAToolStripMenuItem
             // 
-            this.dDAToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.dDAToolStripMenuItem1,
-            this.bresenhamToolStripMenuItem,
-            this.circleToolStripMenuItem});
             this.dDAToolStripMenuItem.Name = "dDAToolStripMenuItem";
-            this.dDAToolStripMenuItem.Size = new System.Drawing.Size(96, 26);
-            this.dDAToolStripMenuItem.Text = "Algorithms";
+            this.dDAToolStripMenuItem.Size = new System.Drawing.Size(55, 24);
+            this.dDAToolStripMenuItem.Text = "DDA";
+            this.dDAToolStripMenuItem.Click += new System.EventHandler(this.dDAToolStripMenuItem_Click_1);
             // 
-            // dDAToolStripMenuItem1
+            // bresenhamToolStripMenuItem2
             // 
-            this.dDAToolStripMenuItem1.BackColor = System.Drawing.Color.Black;
-            this.dDAToolStripMenuItem1.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.dDAToolStripMenuItem1.Name = "dDAToolStripMenuItem1";
-            this.dDAToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
-            this.dDAToolStripMenuItem1.Text = "DDA";
-            this.dDAToolStripMenuItem1.Click += new System.EventHandler(this.dDAToolStripMenuItem1_Click_1);
+            this.bresenhamToolStripMenuItem2.Name = "bresenhamToolStripMenuItem2";
+            this.bresenhamToolStripMenuItem2.Size = new System.Drawing.Size(96, 24);
+            this.bresenhamToolStripMenuItem2.Text = "Bresenham";
+            this.bresenhamToolStripMenuItem2.Click += new System.EventHandler(this.bresenhamToolStripMenuItem2_Click);
             // 
-            // bresenhamToolStripMenuItem
+            // circle1ToolStripMenuItem1
             // 
-            this.bresenhamToolStripMenuItem.BackColor = System.Drawing.Color.Black;
-            this.bresenhamToolStripMenuItem.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.bresenhamToolStripMenuItem.Name = "bresenhamToolStripMenuItem";
-            this.bresenhamToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.bresenhamToolStripMenuItem.Text = "Bresenham";
-            this.bresenhamToolStripMenuItem.Click += new System.EventHandler(this.bresenhamToolStripMenuItem_Click);
+            this.circle1ToolStripMenuItem1.Name = "circle1ToolStripMenuItem1";
+            this.circle1ToolStripMenuItem1.Size = new System.Drawing.Size(60, 24);
+            this.circle1ToolStripMenuItem1.Text = "Circle";
+            this.circle1ToolStripMenuItem1.Click += new System.EventHandler(this.circle1ToolStripMenuItem1_Click);
             // 
-            // circleToolStripMenuItem
+            // floodfillToolStripMenuItem1
             // 
-            this.circleToolStripMenuItem.BackColor = System.Drawing.Color.Black;
-            this.circleToolStripMenuItem.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.circleToolStripMenuItem.Name = "circleToolStripMenuItem";
-            this.circleToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.circleToolStripMenuItem.Text = "Circle";
-            this.circleToolStripMenuItem.Click += new System.EventHandler(this.circleToolStripMenuItem_Click);
+            this.floodfillToolStripMenuItem1.Name = "floodfillToolStripMenuItem1";
+            this.floodfillToolStripMenuItem1.Size = new System.Drawing.Size(84, 24);
+            this.floodfillToolStripMenuItem1.Text = "Flood Fill";
+            this.floodfillToolStripMenuItem1.Click += new System.EventHandler(this.floodfillToolStripMenuItem1_Click);
             // 
             // panelContenedor
             // 
@@ -95,9 +89,9 @@
             this.panelContenedor.Controls.Add(this.lblName);
             this.panelContenedor.Controls.Add(this.lblWelcome);
             this.panelContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelContenedor.Location = new System.Drawing.Point(0, 30);
+            this.panelContenedor.Location = new System.Drawing.Point(0, 28);
             this.panelContenedor.Name = "panelContenedor";
-            this.panelContenedor.Size = new System.Drawing.Size(812, 473);
+            this.panelContenedor.Size = new System.Drawing.Size(812, 475);
             this.panelContenedor.TabIndex = 4;
             // 
             // lblName
@@ -141,11 +135,11 @@
 
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem dDAToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem dDAToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem bresenhamToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem circleToolStripMenuItem;
         private System.Windows.Forms.Panel panelContenedor;
         private System.Windows.Forms.Label lblWelcome;
         private System.Windows.Forms.Label lblName;
+        private System.Windows.Forms.ToolStripMenuItem bresenhamToolStripMenuItem2;
+        private System.Windows.Forms.ToolStripMenuItem circle1ToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem floodfillToolStripMenuItem1;
     }
 }

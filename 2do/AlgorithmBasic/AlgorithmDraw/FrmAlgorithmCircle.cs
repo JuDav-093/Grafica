@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlgorithmBasic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +9,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 namespace AlgorithmBasic
 {
     public partial class FrmAlgorithmCircle : Form
@@ -17,33 +17,27 @@ namespace AlgorithmBasic
         public FrmAlgorithmCircle()
         {
             InitializeComponent();
-            picCanvas.MouseClick += picCanvas_MouseClick; // ✅ correcto
-
         }
 
         private void btnDraw_Click(object sender, EventArgs e)
         {
             algorithmCircle.ReadData(txtRadius, picCanvas);
             algorithmCircle.PlotShape(picCanvas.CreateGraphics());
+            listP.Items.Clear();
+            foreach (Point pt in algorithmCircle.GetCirclePoints())
+            {
+                listP.Items.Add($"({pt.X}, {pt.Y})");
+            }
+            
+            lblTotalPoints.Visible = true;
+            lblTotalPoints.Text = "Total: " + listP.Items.Count.ToString();
         }
 
         private void btnClear_Click(object sender, EventArgs e)
         {
             algorithmCircle.InitializeData(txtRadius, picCanvas);
-        }
-
-                           
-        private void picCanvas_MouseClick(object sender, MouseEventArgs e)
-        {
-            Point clickedPoint = e.Location;
-            algorithmCircle.FloodFillRecursiveVisible(picCanvas.CreateGraphics(), picCanvas, clickedPoint);
-        }
-
-        private void bntPintar_Click(object sender, EventArgs e)
-        {
-            Point center = new Point(picCanvas.Width / 2, picCanvas.Height / 2);
-            algorithmCircle.FloodFillRecursiveVisible(picCanvas.CreateGraphics(), picCanvas, center);
+            listP.Items.Clear();
+            lblTotalPoints.Visible = false;
         }
     }
 }
-

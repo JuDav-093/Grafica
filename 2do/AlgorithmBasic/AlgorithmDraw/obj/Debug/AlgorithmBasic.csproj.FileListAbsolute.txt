@@ -11,3 +11,17 @@ C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\
 C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.CoreCompileInputs.cache
 C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmDraw.exe
 C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\2do\AlgorithmDraw2\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmDraw.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\bin\Debug\AlgorithmBasic.exe.config
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\bin\Debug\AlgorithmBasic.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\bin\Debug\AlgorithmBasic.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.AssemblyReference.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmAlgorithmBresenham.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmAlgorithmCircle.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmAlgorithmDDA.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmIndex.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.Properties.Resources.resources
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.GenerateResource.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.exe
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.pdb
+C:\Users\Juanis\Desktop\5to ESPE\COMP Grafica\Repos\Grafica\2do\AlgorithmBasic\AlgorithmDraw\obj\Debug\AlgorithmBasic.FrmFloodFill.resources

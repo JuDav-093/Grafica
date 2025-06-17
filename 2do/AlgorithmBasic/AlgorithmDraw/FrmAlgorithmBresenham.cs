@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlgorithmBasic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,7 @@ namespace AlgorithmBasic
     public partial class FrmAlgorithmBresenham : Form
     {
         private AlgorithmBresenham algorithmBresenham = new AlgorithmBresenham();
+        private int clickCount = 0;
         public FrmAlgorithmBresenham()
         {
             InitializeComponent();
@@ -22,11 +24,56 @@ namespace AlgorithmBasic
         {
             algorithmBresenham.ReadData(txtX1, txtY1, txtX2, txtY2);
             algorithmBresenham.PlotShape(picCanvas.CreateGraphics());
+            listP.Items.Clear();
+            foreach (Point pt in algorithmBresenham.GetLinePoints())
+            {
+                listP.Items.Add($"({pt.X}, {pt.Y})");
+            }
+            
+            lblTotalPoints.Visible = true;
+            lblTotalPoints.Text = "Total: " + listP.Items.Count.ToString();
         }
 
         private void btnClear_Click(object sender, EventArgs e)
         {
             algorithmBresenham.InitializeData(txtX1, txtY1, txtX2, txtY2, picCanvas);
+            clickCount = 0;
+            listP.Items.Clear();
+            lblTotalPoints.Visible = false;
         }
+
+        private void picCanvas_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (clickCount == 0)
+            {
+                txtX1.Text = e.X.ToString();
+                txtY1.Text = e.Y.ToString();
+                txtX2.Text = "";
+                txtY2.Text = "";
+
+                picCanvas.Refresh(); // Limpia el PictureBox
+
+                // Dibuja el primer punto
+                using (Graphics g = picCanvas.CreateGraphics())
+                {
+                    g.FillRectangle(Brushes.Lime, e.X, e.Y, 1, 1);
+                }
+                clickCount = 1;
+            }
+            else if (clickCount == 1)
+            {
+                txtX2.Text = e.X.ToString();
+                txtY2.Text = e.Y.ToString();
+
+                // Dibuja segundo punto
+                using (Graphics g = picCanvas.CreateGraphics())
+                {
+                    g.FillRectangle(Brushes.Lime, e.X, e.Y, 1, 1);
+                }
+                clickCount = 0;
+            }
+        }
+
+
     }
 }

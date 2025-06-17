@@ -40,26 +40,7 @@ namespace AlgorithmBasic
             formulario.Dock = DockStyle.Fill;
             panelContenedor.Controls.Add(formulario);
             formulario.Show();
-        }
-
-        private void dDAToolStripMenuItem1_Click_1(object sender, EventArgs e)
-        {
-            OpenForm(new FrmAlgorithmDDA());
-            this.Text = "DDA Algorithm";
-        }
-
-        private void bresenhamToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            OpenForm(new FrmAlgorithmBresenham());
-            this.Text = "Bresenham Algorithm";
-        }
-
-        private void circleToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            OpenForm(new FrmAlgorithmCircle());
-            this.Text = "Circle Algorithm";
-        }
-
+        }        
         private void FrmIndex_Load(object sender, EventArgs e)
         {
             // Configurar y centrar los labels
@@ -100,6 +81,30 @@ namespace AlgorithmBasic
             lbl.Top = top;
             lbl.Anchor = AnchorStyles.Top;
         }
-                
+               
+
+        private void bresenhamToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            OpenForm(new FrmAlgorithmBresenham());
+            this.Text = "Bresenham Algorithm";
+        }
+
+        private void circle1ToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            OpenForm(new FrmAlgorithmCircle());
+            this.Text = "Circle Algorithm";
+        }
+
+        private void dDAToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            OpenForm(new FrmAlgorithmDDA());
+            this.Text = "DDA Algorithm";
+        }
+
+        private void floodfillToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            OpenForm(new FrmFloodFill());
+            this.Text = "Flood Fill Algorithm";
+        }
     }
 }

@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.groupBoxPoit = new System.Windows.Forms.GroupBox();
+            this.lblTotalPoints = new System.Windows.Forms.Label();
+            this.listP = new System.Windows.Forms.ListBox();
             this.btnClear = new System.Windows.Forms.Button();
             this.groupBoxInput = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -37,6 +40,7 @@
             this.picCanvas = new System.Windows.Forms.PictureBox();
             this.btnDraw = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
+            this.groupBoxPoit.SuspendLayout();
             this.groupBoxInput.SuspendLayout();
             this.groupBoxDraw.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
@@ -45,6 +49,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Black;
+            this.panel1.Controls.Add(this.groupBoxPoit);
             this.panel1.Controls.Add(this.btnClear);
             this.panel1.Controls.Add(this.groupBoxInput);
             this.panel1.Controls.Add(this.groupBoxDraw);
@@ -55,11 +60,47 @@
             this.panel1.Size = new System.Drawing.Size(800, 450);
             this.panel1.TabIndex = 0;
             // 
+            // groupBoxPoit
+            // 
+            this.groupBoxPoit.Controls.Add(this.lblTotalPoints);
+            this.groupBoxPoit.Controls.Add(this.listP);
+            this.groupBoxPoit.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.groupBoxPoit.Location = new System.Drawing.Point(9, 154);
+            this.groupBoxPoit.Name = "groupBoxPoit";
+            this.groupBoxPoit.Size = new System.Drawing.Size(257, 278);
+            this.groupBoxPoit.TabIndex = 12;
+            this.groupBoxPoit.TabStop = false;
+            this.groupBoxPoit.Text = "Points";
+            // 
+            // lblTotalPoints
+            // 
+            this.lblTotalPoints.AutoSize = true;
+            this.lblTotalPoints.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotalPoints.Location = new System.Drawing.Point(7, 249);
+            this.lblTotalPoints.Name = "lblTotalPoints";
+            this.lblTotalPoints.Size = new System.Drawing.Size(72, 20);
+            this.lblTotalPoints.TabIndex = 15;
+            this.lblTotalPoints.Text = "Total: ";
+            this.lblTotalPoints.Visible = false;
+            // 
+            // listP
+            // 
+            this.listP.BackColor = System.Drawing.Color.Black;
+            this.listP.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.listP.Font = new System.Drawing.Font("Consolas", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listP.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.listP.FormattingEnabled = true;
+            this.listP.ItemHeight = 22;
+            this.listP.Location = new System.Drawing.Point(9, 20);
+            this.listP.Name = "listP";
+            this.listP.Size = new System.Drawing.Size(225, 220);
+            this.listP.TabIndex = 14;
+            // 
             // btnClear
             // 
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClear.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.btnClear.Location = new System.Drawing.Point(76, 272);
+            this.btnClear.Location = new System.Drawing.Point(139, 96);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(93, 38);
             this.btnClear.TabIndex = 11;
@@ -72,9 +113,9 @@
             this.groupBoxInput.Controls.Add(this.label1);
             this.groupBoxInput.Controls.Add(this.txtRadius);
             this.groupBoxInput.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.groupBoxInput.Location = new System.Drawing.Point(23, 33);
+            this.groupBoxInput.Location = new System.Drawing.Point(12, 12);
             this.groupBoxInput.Name = "groupBoxInput";
-            this.groupBoxInput.Size = new System.Drawing.Size(220, 101);
+            this.groupBoxInput.Size = new System.Drawing.Size(220, 78);
             this.groupBoxInput.TabIndex = 10;
             this.groupBoxInput.TabStop = false;
             this.groupBoxInput.Text = "Inputs";
@@ -102,7 +143,7 @@
             // 
             this.groupBoxDraw.Controls.Add(this.picCanvas);
             this.groupBoxDraw.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.groupBoxDraw.Location = new System.Drawing.Point(263, 12);
+            this.groupBoxDraw.Location = new System.Drawing.Point(272, 12);
             this.groupBoxDraw.Name = "groupBoxDraw";
             this.groupBoxDraw.Size = new System.Drawing.Size(516, 426);
             this.groupBoxDraw.TabIndex = 9;
@@ -116,13 +157,12 @@
             this.picCanvas.Size = new System.Drawing.Size(491, 399);
             this.picCanvas.TabIndex = 0;
             this.picCanvas.TabStop = false;
-            this.picCanvas.MouseClick += new System.Windows.Forms.MouseEventHandler(this.picCanvas_MouseClick);
             // 
             // btnDraw
             // 
             this.btnDraw.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDraw.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.btnDraw.Location = new System.Drawing.Point(76, 192);
+            this.btnDraw.Location = new System.Drawing.Point(12, 96);
             this.btnDraw.Name = "btnDraw";
             this.btnDraw.Size = new System.Drawing.Size(93, 38);
             this.btnDraw.TabIndex = 8;
@@ -139,6 +179,8 @@
             this.Name = "FrmAlgorithmCircle";
             this.Text = "Circle";
             this.panel1.ResumeLayout(false);
+            this.groupBoxPoit.ResumeLayout(false);
+            this.groupBoxPoit.PerformLayout();
             this.groupBoxInput.ResumeLayout(false);
             this.groupBoxInput.PerformLayout();
             this.groupBoxDraw.ResumeLayout(false);
@@ -157,5 +199,8 @@
         private System.Windows.Forms.GroupBox groupBoxDraw;
         private System.Windows.Forms.PictureBox picCanvas;
         private System.Windows.Forms.Button btnDraw;
+        private System.Windows.Forms.GroupBox groupBoxPoit;
+        private System.Windows.Forms.Label lblTotalPoints;
+        private System.Windows.Forms.ListBox listP;
     }
 }

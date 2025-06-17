@@ -1,54 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\",
+  "WorkspaceRootPath": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\2do\\algorithmdraw2\\algorithmbasic\\algorithmdraw\\algorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\algorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\2do\\algorithmbasic\\algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\algorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\algorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\2do\\algorithmdraw2\\algorithmbasic\\algorithmdraw\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\2do\\algorithmdraw2\\algorithmbasic\\algorithmdraw\\algorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\algorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\algorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\algorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmalgorithmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmalgorithmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmalgorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmalgorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmalgorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmalgorithmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmalgorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmalgorithmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmindex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmindex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\algorithmdraw\\frmalgorithmcircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmDraw.csproj|solutionrelative:algorithmdraw\\frmalgorithmcircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\algorithmdraw\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,114 +42,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlgorithmBresenham.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmBresenham.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\AlgorithmBresenham.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmBresenham.cs",
-              "RelativeToolTip": "AlgorithmDraw\\AlgorithmBresenham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T01:00:57.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmIndex.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmIndex.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmIndex.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmIndex.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AlgorithmDraw\\FrmIndex.cs [Dise\u00F1o]",
+              "Title": "FloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FloodFill.cs",
+              "RelativeDocumentMoniker": "AlgorithmDraw\\FloodFill.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FloodFill.cs",
+              "RelativeToolTip": "AlgorithmDraw\\FloodFill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T00:57:42.216Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmIndex.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmIndex.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmIndex.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmDraw\\AlgorithmDraw\\FrmIndex.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\AlgorithmDraw\\AlgorithmDraw\\FrmIndex.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T15:39:19.182Z"
+              "WhenOpened": "2025-06-17T22:59:47.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AlgorithmBresenham.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmBresenham.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\AlgorithmBresenham.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmBresenham.cs",
-              "RelativeToolTip": "AlgorithmDraw\\AlgorithmBresenham.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAkwE8AAAAUAAAAAAAAAA==",
+              "Title": "FrmFloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs",
+              "RelativeToolTip": "AlgorithmDraw\\FrmFloodFill.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T22:52:19.272Z"
+              "WhenOpened": "2025-06-17T22:58:56.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmAlgorithmDDA.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmDDA.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmAlgorithmDDA.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmDraw\\AlgorithmDraw\\FrmAlgorithmDDA.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\AlgorithmDraw\\AlgorithmDraw\\FrmAlgorithmDDA.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "FrmFloodFill.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgorithmDraw\\FrmFloodFill.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T16:16:49.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmAlgorithmCircle.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmCircle.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmAlgorithmCircle.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmDraw\\AlgorithmDraw\\FrmAlgorithmCircle.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\AlgorithmDraw\\AlgorithmDraw\\FrmAlgorithmCircle.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:07:14.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmAlgorithmBresenham.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmBresenham.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmAlgorithmBresenham.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmDraw\\AlgorithmDraw\\FrmAlgorithmBresenham.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\AlgorithmDraw\\AlgorithmDraw\\FrmAlgorithmBresenham.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T16:17:11.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmIndex.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmIndex.Designer.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmIndex.Designer.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmIndex.Designer.cs",
-              "RelativeToolTip": "AlgorithmDraw\\FrmIndex.Designer.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAtwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T16:14:42.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmAlgorithmCircle.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmCircle.Designer.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmAlgorithmCircle.Designer.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmCircle.Designer.cs",
-              "RelativeToolTip": "AlgorithmDraw\\FrmAlgorithmCircle.Designer.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAYwEUAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:50:33.604Z"
+              "WhenOpened": "2025-06-17T22:58:51.111Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,43 +90,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlgorithmCircle.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmCircle.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\AlgorithmCircle.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmCircle.cs",
-              "RelativeToolTip": "AlgorithmDraw\\AlgorithmCircle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T00:57:41.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AlgorithmCircle.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmCircle.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\AlgorithmCircle.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\AlgorithmCircle.cs",
-              "RelativeToolTip": "AlgorithmDraw\\AlgorithmCircle.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwLoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:06:52.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmAlgorithmCircle.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmCircle.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FrmAlgorithmCircle.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\2do\\AlgorithmDraw2\\AlgorithmBasic\\AlgorithmDraw\\FrmAlgorithmCircle.cs",
-              "RelativeToolTip": "AlgorithmDraw\\FrmAlgorithmCircle.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:08:47.515Z"
             }
           ]
         }

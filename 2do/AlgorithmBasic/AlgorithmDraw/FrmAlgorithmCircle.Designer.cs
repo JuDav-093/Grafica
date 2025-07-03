@@ -55,6 +55,7 @@
             this.panel1.Controls.Add(this.groupBoxDraw);
             this.panel1.Controls.Add(this.btnDraw);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.ForeColor = System.Drawing.Color.Pink;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(800, 450);
@@ -64,7 +65,7 @@
             // 
             this.groupBoxPoit.Controls.Add(this.lblTotalPoints);
             this.groupBoxPoit.Controls.Add(this.listP);
-            this.groupBoxPoit.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.groupBoxPoit.ForeColor = System.Drawing.Color.Pink;
             this.groupBoxPoit.Location = new System.Drawing.Point(9, 154);
             this.groupBoxPoit.Name = "groupBoxPoit";
             this.groupBoxPoit.Size = new System.Drawing.Size(257, 278);
@@ -88,7 +89,7 @@
             this.listP.BackColor = System.Drawing.Color.Black;
             this.listP.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listP.Font = new System.Drawing.Font("Consolas", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listP.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.listP.ForeColor = System.Drawing.Color.Pink;
             this.listP.FormattingEnabled = true;
             this.listP.ItemHeight = 22;
             this.listP.Location = new System.Drawing.Point(9, 20);
@@ -99,7 +100,7 @@
             // btnClear
             // 
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClear.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.btnClear.ForeColor = System.Drawing.Color.Pink;
             this.btnClear.Location = new System.Drawing.Point(139, 96);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(93, 38);
@@ -112,7 +113,7 @@
             // 
             this.groupBoxInput.Controls.Add(this.label1);
             this.groupBoxInput.Controls.Add(this.txtRadius);
-            this.groupBoxInput.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.groupBoxInput.ForeColor = System.Drawing.Color.Pink;
             this.groupBoxInput.Location = new System.Drawing.Point(12, 12);
             this.groupBoxInput.Name = "groupBoxInput";
             this.groupBoxInput.Size = new System.Drawing.Size(220, 78);
@@ -142,7 +143,7 @@
             // groupBoxDraw
             // 
             this.groupBoxDraw.Controls.Add(this.picCanvas);
-            this.groupBoxDraw.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.groupBoxDraw.ForeColor = System.Drawing.Color.Pink;
             this.groupBoxDraw.Location = new System.Drawing.Point(272, 12);
             this.groupBoxDraw.Name = "groupBoxDraw";
             this.groupBoxDraw.Size = new System.Drawing.Size(516, 426);
@@ -161,7 +162,7 @@
             // btnDraw
             // 
             this.btnDraw.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDraw.ForeColor = System.Drawing.Color.DeepSkyBlue;
+            this.btnDraw.ForeColor = System.Drawing.Color.Pink;
             this.btnDraw.Location = new System.Drawing.Point(12, 96);
             this.btnDraw.Name = "btnDraw";
             this.btnDraw.Size = new System.Drawing.Size(93, 38);

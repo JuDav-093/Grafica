@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\2do\\algorithmbasic\\algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\algorithmdraw\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\2do\\algorithmbasic\\algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\algorithmdraw\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\floodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|c:\\users\\juanis\\desktop\\5to espe\\comp grafica\\repos\\grafica\\2do\\algorithmbasic\\algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DED3C93-F655-4E76-A112-104E8BFB05C4}|AlgorithmDraw\\AlgorithmBasic.csproj|solutionrelative:algorithmdraw\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,40 +42,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FloodFill.cs",
-              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FloodFill.cs",
-              "RelativeDocumentMoniker": "AlgorithmDraw\\FloodFill.cs",
-              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FloodFill.cs",
-              "RelativeToolTip": "AlgorithmDraw\\FloodFill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:59:47.374Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmFloodFill.cs",
               "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs",
               "RelativeDocumentMoniker": "AlgorithmDraw\\FrmFloodFill.cs",
               "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs",
               "RelativeToolTip": "AlgorithmDraw\\FrmFloodFill.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:58:56.698Z",
+              "WhenOpened": "2025-07-02T21:33:28.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FrmFloodFill.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs",
               "RelativeDocumentMoniker": "AlgorithmDraw\\FrmFloodFill.cs",
               "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FrmFloodFill.cs [Dise\u00F1o]",
               "RelativeToolTip": "AlgorithmDraw\\FrmFloodFill.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:58:51.111Z",
+              "WhenOpened": "2025-07-02T21:21:42.883Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FloodFill.cs",
+              "RelativeDocumentMoniker": "AlgorithmDraw\\FloodFill.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\5to ESPE\\COMP Grafica\\Repos\\Grafica\\2do\\AlgorithmBasic\\AlgorithmDraw\\FloodFill.cs",
+              "RelativeToolTip": "AlgorithmDraw\\FloodFill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:59:47.374Z",
+              "EditorCaption": ""
             }
           ]
         },

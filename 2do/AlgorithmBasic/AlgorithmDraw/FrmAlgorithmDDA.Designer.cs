@@ -101,7 +101,7 @@
             this.lstPoints.ItemHeight = 22;
             this.lstPoints.Location = new System.Drawing.Point(8, 25);
             this.lstPoints.Name = "lstPoints";
-            this.lstPoints.Size = new System.Drawing.Size(225, 220);
+            this.lstPoints.Size = new System.Drawing.Size(186, 220);
             this.lstPoints.TabIndex = 12;
             // 
             // btnClear

@@ -49,7 +49,7 @@
             // 
             this.btnPaint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPaint.Font = new System.Drawing.Font("Consolas", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPaint.ForeColor = System.Drawing.Color.Fuchsia;
+            this.btnPaint.ForeColor = System.Drawing.Color.Pink;
             this.btnPaint.Location = new System.Drawing.Point(80, 81);
             this.btnPaint.Name = "btnPaint";
             this.btnPaint.Size = new System.Drawing.Size(87, 33);
@@ -62,7 +62,7 @@
             // 
             this.groupBoxPoints.Controls.Add(this.lblTotalPoints);
             this.groupBoxPoints.Controls.Add(this.lstPoints);
-            this.groupBoxPoints.ForeColor = System.Drawing.Color.Fuchsia;
+            this.groupBoxPoints.ForeColor = System.Drawing.Color.Pink;
             this.groupBoxPoints.Location = new System.Drawing.Point(12, 122);
             this.groupBoxPoints.Name = "groupBoxPoints";
             this.groupBoxPoints.Size = new System.Drawing.Size(247, 316);
@@ -86,7 +86,7 @@
             this.lstPoints.BackColor = System.Drawing.Color.Black;
             this.lstPoints.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.lstPoints.Font = new System.Drawing.Font("Consolas", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lstPoints.ForeColor = System.Drawing.Color.Fuchsia;
+            this.lstPoints.ForeColor = System.Drawing.Color.Pink;
             this.lstPoints.FormattingEnabled = true;
             this.lstPoints.ItemHeight = 22;
             this.lstPoints.Location = new System.Drawing.Point(6, 21);
@@ -97,7 +97,7 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.picCanvas);
-            this.groupBox1.ForeColor = System.Drawing.Color.Fuchsia;
+            this.groupBox1.ForeColor = System.Drawing.Color.Pink;
             this.groupBox1.Location = new System.Drawing.Point(278, 51);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(510, 387);
@@ -118,7 +118,7 @@
             // 
             this.GBoxEntradas.Controls.Add(this.txtRadio);
             this.GBoxEntradas.Controls.Add(this.lblRadio);
-            this.GBoxEntradas.ForeColor = System.Drawing.Color.Fuchsia;
+            this.GBoxEntradas.ForeColor = System.Drawing.Color.Pink;
             this.GBoxEntradas.Location = new System.Drawing.Point(6, 12);
             this.GBoxEntradas.Name = "GBoxEntradas";
             this.GBoxEntradas.Size = new System.Drawing.Size(232, 63);
@@ -149,7 +149,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.Fuchsia;
+            this.label1.ForeColor = System.Drawing.Color.Pink;
             this.label1.Location = new System.Drawing.Point(275, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(351, 16);
@@ -159,7 +159,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.Fuchsia;
+            this.label2.ForeColor = System.Drawing.Color.Pink;
             this.label2.Location = new System.Drawing.Point(275, 32);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(346, 16);
